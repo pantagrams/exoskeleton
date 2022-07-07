@@ -83,12 +83,6 @@ function plotter(x, y, radius, start, end){
 	ctx.stroke();
 }
 
-function plotter_(x, y, radius, start, end){
-	ctx.beginPath();
-	ctx.arc(x, y, Math.floor(radius*(screenHeight/930)), start, end);
-	ctx.stroke();
-}
-
 function draw(){
 	var rand = mulberry32(hash),
 		circa1Radius=Math.floor(rand()*10),
