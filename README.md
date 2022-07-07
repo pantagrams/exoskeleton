@@ -19,6 +19,18 @@ But the algorithm yielded surprisingly numerous patterns.
 
 I hope this project makes an impact.
 
+## Traits
+### Equalizers
+The equalizers are the major regulators of the pattern changes. They are used to introduce randomness in the line thickness, visibility, and layer component sparsity, among others. There are 6 equalizers, and each has a maximum value of 100. There are other minor switches that introduce randomness like the dash property handlers. 
+
+### Centroids
+The centroids are used to introduce a sense of mechanical flow that characterizes the production of music. It also creates the feel of a "music player" of some sort,
+like a CD player with the CD rotating. The highest number of centroids is 3.
+### Cadence
+Cadence indicates the seamlessness of the music. Does it flow to the end of the space or does it cut abruptly somewhere in the middle? Each recital can have a "full" or "half" cadence.
+### Layers
+The layers co-regulate the complexity of each recital. The maximum number of layers is 23.
+
 ## Samples
 
 ![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh1.png)
