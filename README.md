@@ -19,3 +19,28 @@ But the algorithm yielded surprisingly numerous patterns.
 
 I hope this project makes an impact.
 
+## Samples
+
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh1.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh2.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh3.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh4.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh5.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh6.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh7.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh8.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh9.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh10.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh11.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh12.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh13.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh14.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh15.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh16.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh17.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh18.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh19.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh20.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh21.png)
+![alt text](https://github.com/pantagrams/exoskeleton/blob/main/samples/gh22.png)
+
